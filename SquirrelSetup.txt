@@ -1,4 +1,8 @@
-﻿2020-12-07 00:40:41> Program: Starting Squirrel Updater: --install . --exeName=Teams_windows_x64.exe
+﻿
+dfgdfgdfg
+
+
+2020-12-07 00:40:41> Program: Starting Squirrel Updater: --install . --exeName=Teams_windows_x64.exe
 2020-12-07 00:40:42> Program: Config already exists. Deleting first.
 2020-12-07 00:40:42> Program: Failed to delete the config file 'C:\Users\HP\AppData\Roaming\Microsoft\Teams\teams_install_session.json': System.IO.IOException: The process cannot access the file 'C:\Users\HP\AppData\Roaming\Microsoft\Teams\teams_install_session.json' because it is being used by another process.
    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
